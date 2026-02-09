@@ -26,7 +26,7 @@ Object-Oriented Programming, Linear Algebra, Calculus
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Java, C, Python  
+**Programming Languages:** Java, C, Python, HTML, JavaScript
 **Data & Visualization:** Tableau, Power BI  
 **Developer Tools:** Git, Linux/Unix Shell, VS Code, Overleaf  
 **Core Concepts:** Algorithms, Data Structures, OOP, Memory Management  
