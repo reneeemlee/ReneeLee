@@ -1,6 +1,6 @@
 # Hi, I'm Renée!
 * Computer Science and Business student at the University of Washington  
-* Seattle, WA
+* Based in Seattle, WA
 * Interested in systems, data structures, and building efficient solutions to real-world problems
 
 **Contact**
