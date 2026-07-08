@@ -15,7 +15,7 @@
 
 **University of Washington** — Seattle, WA  
 **B.S. in Computer Science**, Minor in Business Administration  
-*Expected Graduation: June 2027*  
+*Expected Graduation: June 2028*  
 **Honors:** Dean’s List  
 
 **Relevant Coursework:**  
@@ -47,19 +47,7 @@ Object-Oriented Programming, Linear Algebra, Calculus
 - Created **interactive Tableau dashboards** to communicate findings clearly to non-technical audiences.
 
 **Tools:** Tableau Public, data cleaning, spatial analysis  
-**Team:** Renée Lee, Celine Chen, Heidi Ngo  
-
-### 🌍 Disaster Relief Allocation System (Java)
-- Implemented a **recursive algorithm** to explore feasible allocations of limited resources across regions.
-- Modeled **population and cost constraints** to maximize the number of people helped within a fixed budget.
-- Designed **tie-breaking logic** to prioritize cost-efficiency when multiple optimal solutions existed.
-- Pruned invalid solution paths when allocations exceeded budget constraints to improve performance.
-
-### 🧠 Data Representation & Systems Programming (C)
-- Implemented a custom **bitmask-based data representation** to manage store inventory.
-- Used **bitwise operators, shifts, and masks** to extract and update packed data fields.
-- Managed memory using **pointers and arrays** across multiple data structures.
-- Designed and tested systems-level functions to refill inventory, fulfill orders, and analyze item distribution.
+**Team:** Renée Lee, Celine Chen, Heidi Ngo
 
 ---
 
@@ -72,21 +60,6 @@ Object-Oriented Programming, Linear Algebra, Calculus
 - Served patients, families, and hospital staff at a high-volume hospital location.
 - Collaborated with team members to maintain operational efficiency and food safety standards.
 - Managed cash handling, inventory restocking, and store cleanliness.
-
-### 🌲 National Parks Service Intern  
-**National Parks Service**  
-*Summer 2021, Summer 2022 | Seattle, WA*
-- Collaborated with cross-functional teams on environmental science and community engagement projects.
-- Developed written reflections and presentations, strengthening professional communication skills.
-- Coordinated schedules, meetings, and deliverables using email and Microsoft Teams.
-
-### 📚 Reading Coach  
-**Team Read**  
-*February 2021 – August 2021 | Seattle, WA*
-- Provided one-on-one reading support to elementary students.
-- Assessed progress and adapted instruction to meet individual learning needs.
-- Tracked literacy development and communicated outcomes with teachers and coordinators.
-- Built patience and structured explanation skills applicable to technical problem-solving.
 
 ---
 
