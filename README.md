@@ -27,7 +27,7 @@ Data Structures & Algorithms, Database Management Systems, Discrete Mathematics,
 **Core Concepts:** Algorithms, Data Structures, Database Systems, Relational Schemas, Memory Management  
 
 ---
-## 💻 Projects
+## Projects
 
 ### Access to Everyday Life: Seattle Sidewalk Accessibility  
 *Dubstech Datathon 2026 | Data Analysis & Visualization*  
