@@ -17,14 +17,13 @@
 **Honors:** Dean's List  
 
 **Relevant Coursework:**  
-Data Structures & Algorithms, Database Management Systems, Discrete Mathematics, Probability & Statistical Modeling, Graph Algorithms, Asymptotic Analysis, Computer Systems, Financial & Managerial Accounting, Linear Algebra
+Data Structures & Algorithms, Object-Oriented Programming, Computer Architecture, Data Management, Discrete Mathematics, Linear Algebra, Statistics & Probability, Finance, Marketing
 
 ---
 ## Technical Skills
-**Languages:** Java, Python, C, JavaScript, HTML, CSS  
-**Tools:** SQL, SQLite, Git, Linux/Unix, VS Code, Overleaf, Tableau, Active Directory, GitHub Copilot, LLM APIs  
-**Productivity & AI:** Claude, Gemini, OpenAI, Google Workspace, Microsoft Office, Canva  
-**Core Concepts:** Algorithms, Data Structures, Database Systems, Relational Schemas, Memory Management  
+**Languages:** Java, Python, SQL, C/C++, HTML/CSS, JavaScript/TypeScript
+**Frameworks & Libraries:** Spring Boot, Spring WebFlux, React, Node.js, Tailwind CSS, Netty
+**AI & Developer Tools:** Tableau, Git, Maven, Figma, Linux/Unix, GitHub Copilot, Claude Code
 
 ---
 ## Projects
@@ -45,14 +44,7 @@ Data Structures & Algorithms, Database Management Systems, Discrete Mathematics,
 ---
 ## Experience
 
-### Computer Support Technician  
-**UW Medicine Dean of Medicine IT**  
-*June 2026 – Present | Seattle, WA*
-- Provision, image, and update hardware deployment pipelines for faculty and staff devices across Windows 10/11.
-- Streamline user onboarding by managing tickets, configuring internal web systems, and provisioning permissions via Active Directory and Microsoft 365.
-- Maintain hardware inventory databases and spreadsheet management systems to optimize tracking accuracy.
-
-### CSE 123 Teaching Assistant  
+### Undergraduate Teaching Assistant  
 **Paul G. Allen School of Computer Science & Engineering, University of Washington**  
 *March 2026 – Present | Seattle, WA*
 - Led weekly quiz sections of ~15 students on data structures, recursion, and OOP in Java.
@@ -60,6 +52,13 @@ Data Structures & Algorithms, Database Management Systems, Discrete Mathematics,
 - Staffed the Introductory Programming Lab (IPL), offering real-time debugging and conceptual support.
 - Collaborated with course staff in weekly meetings and trainings to maintain consistent instruction standards.
 
+### Computer Support Technician  
+**UW Medicine**  
+*June 2026 – September 2026 | Seattle, WA*
+- Provision, image, and update hardware deployment pipelines for faculty and staff devices across Windows 10/11.
+- Streamline user onboarding by managing tickets, configuring internal web systems, and provisioning permissions via Active Directory and Microsoft 365.
+- Maintain hardware inventory databases and spreadsheet management systems to optimize tracking accuracy.
+
 ---
-## 🌱 Outside of Tech
-Baking · Hiking · Reading · Running · Skiing · Traveling
+## Outside of Tech
+Hiking · Reading · Running · Skiing · Traveling
